@@ -1,6 +1,6 @@
 ### Agile Workshop Practice
 
-#### Life is but a walking shadow, a poor player that struts and frets upon the stage and then is heard no more
+#### Life is but a walking shadow, a poor player that struts and frets upon the stage and then is heard no more (Will Shakespeare)
 
 Git flow:
 1. Before creating a new branch choose which is the source branch
