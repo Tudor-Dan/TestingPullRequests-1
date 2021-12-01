@@ -1,5 +1,7 @@
 ### Agile Workshop Practice
 
+#### Life is but a walking shadow, a poor player that struts and frets upon the stage and is heard no more
+
 Git flow:
 1. Before creating a new branch choose which is the source branch
    1. `git checkout master`
