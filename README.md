@@ -1,6 +1,9 @@
 ### Agile Workshop Practice
 
+#### Git Workflow section
+
 Git flow:
+
 1. Before creating a new branch choose which is the source branch
    1. `git checkout master`
    1. If you get an error it most probably is caused that you have uncommited files on the current branch (`git status`)
