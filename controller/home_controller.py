@@ -22,7 +22,7 @@ def handle_menu():
                     "School Students",
                     "Statistics"]
     display.print_menu("Main Menu", main_options)
-# test
+
 
 def menu():
     while True:
